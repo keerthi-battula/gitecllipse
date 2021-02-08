@@ -10,7 +10,7 @@ public class GitFun {
 		System.out.println("thank you!");
 		System.out.println("please visit again!");
 		System.out.println("have a great day!");
-		System.out.println("first change");
+		System.out.println("first changes are done");
 
 	}
 }
